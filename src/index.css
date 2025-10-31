@@ -58,9 +58,9 @@
 }
 
 @layer base {
-  * {
+  /* {
     @apply border-border;
-  }
+  }*/
 
   body {
     background: var(--gradient-background);
@@ -318,15 +318,5 @@
 
   .animate-spin-slow {
     animation: spin 10s linear infinite;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border;
-  }
-
-  body {
-    @apply bg-background text-foreground;
   }
 }
