@@ -320,6 +320,7 @@
     animation: spin 10s linear infinite;
   }
 }
+<<<<<<< HEAD
 
 /*@layer base {
   * {
@@ -330,3 +331,5 @@
     @apply bg-background text-foreground;
   }
 }*/
+=======
+>>>>>>> 878b22d713e694f99dd5d0a990741b38e7b0d85e
