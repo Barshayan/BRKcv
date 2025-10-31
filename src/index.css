@@ -58,9 +58,9 @@
 }
 
 @layer base {
-  * {
+  /* {
     @apply border-border;
-  }
+  }*/
 
   body {
     background: var(--gradient-background);
@@ -321,7 +321,7 @@
   }
 }
 
-@layer base {
+/*@layer base {
   * {
     @apply border-border;
   }
@@ -329,4 +329,4 @@
   body {
     @apply bg-background text-foreground;
   }
-}
+}*/

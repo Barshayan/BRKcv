@@ -376,7 +376,7 @@ const Index = () => {
                 alt="About BRK" 
                 className="w-full max-w-md mx-auto rounded-2xl shadow-elegant hover:scale-105 transition-transform duration-300"
               />
-              <div className="absolute -top-8 -left-8 text-6xl text-primary animate-spin-slow">
+              <div className="absolute -top-8 -left-4 text-6xl text-primary animate-spin-slow">
                 <Bot />
               </div>
               <div className="absolute -bottom-6 -right-6 text-6xl text-psychedelic-yellow animate-spin-slow">
